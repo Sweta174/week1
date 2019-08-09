@@ -1,0 +1,6 @@
+echo "what is your name"
+read swetalina
+mkdir $swetalina
+cd $swetalina
+touch "${swetalina}.cpp"
+
